@@ -2,8 +2,8 @@
 import os
 import random
 import math
-
 os.system("cls")  # Képernyő törlése (Windows rendszeren)
+
 print("1. Feladat")
 # Bekérünk egy egész számot a felhasználótól
 szam = int(input("Kérlek adj megy egy egész számot: "))
@@ -444,4 +444,5 @@ for konyv in konyvek:
     print(f"Szerző: {konyv['Szerző']}, Cím: {konyv['Cím']}")
     
     
+
 print("Kilépéshez nyomj entert.")
