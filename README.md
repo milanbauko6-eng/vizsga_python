@@ -1,2 +1,2 @@
-# vizsga_python
-Python vizsgafelkészülés
+# Python vizsga gyakorlófeladatsor, megoldás mellette.
+
